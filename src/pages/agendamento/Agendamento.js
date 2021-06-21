@@ -11,7 +11,7 @@ export default function Agendamento() {
             <h2> Clique na imagem abaixo </h2>
           </header>
           <div className="table-wrapper">
-           <a href="https://api.whatsapp.com/send?phone=5554996221164&text=Olá,%20gostaria%20de%20uma%20consulta"><img src={require('./logosmile.png') }  width="300" height="300"/></a>
+           <a href="https://api.whatsapp.com/send?phone=5554996221164&text=Olá,%20gostaria%20de%20uma%20consulta"><img src={require('./whats.png') }  width="300" height="300"/></a>
           </div>
         </div>
       </section>
