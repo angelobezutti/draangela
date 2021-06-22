@@ -1,4 +1,4 @@
 # draangela
-Site feito usando react
+Site feito usando o framework React
 
-está no ar em: https://draangelabezutti.000webhostapp.com/#/
+está no ar em: https://draangelamaria.000webhostapp.com/#/
